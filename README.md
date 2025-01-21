@@ -43,11 +43,11 @@
 
 ## Notes
 
-  <1.> The program automatically initializes the database and creates necessary tables.
+  <1.> The program automatically initializes the database and creates necessary tables.<br>
   <2.> Duplicate email addresses are not allowed when adding users.
 
 ## Future Enhancements
 
-  <1.> Add a graphical user interface (GUI) for better user experience.
-  <2.> Support for exporting reports in CSV or PDF format.
+  <1.> Add a graphical user interface (GUI) for better user experience.<br>
+  <2.> Support for exporting reports in CSV or PDF format.<br>
   <3.> Implement advanced search and filter functionalities for books and users.
